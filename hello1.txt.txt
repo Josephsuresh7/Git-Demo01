@@ -1,5 +1,6 @@
 Hello Git
 This is the second line
 Third line added in feature-1
+fourth line added from local repo
 
 
