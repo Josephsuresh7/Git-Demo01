@@ -3,4 +3,4 @@ This is the second line
 Third line added in feature-1
 fourth line added from local repo
 Fifth line added from remote
-
+Sixth line added from remote
